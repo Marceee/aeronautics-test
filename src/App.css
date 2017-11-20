@@ -1,0 +1,38 @@
+.aeronautic{
+  background:#2471a3;
+  height:50px;
+  text-align: center;
+}
+
+.aeronautic-title{
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  font-size: 8px;
+  padding: 10px;
+}
+
+/*.aeronautic-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}*/
+
+.aeronautic-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.aeronautic-title {
+  font-size: 1.5em;
+}
+
+.aeronautic-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
